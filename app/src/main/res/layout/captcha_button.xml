@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geetest.sdk.views.GT3GeetestButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_geetest"
+    android:layout_width="290dp"
+    android:layout_height="44dp"
+    android:layout_centerInParent="true"
+    android:layout_centerHorizontal="true"
+    android:gravity="center"
+    android:orientation="horizontal" />
